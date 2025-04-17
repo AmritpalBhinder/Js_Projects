@@ -1,0 +1,36 @@
+body {
+    background-image: url(images/images.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.stopwatch {
+    width: 90%;
+    max-width: 600px;
+    height: 250px;
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 40px 0;
+    color: #fff;
+    margin: 200px 400px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.stopwatch.buttons {
+    display: flex;
+}
+
+.stopwatch .buttons img {
+    margin-top: 80px;
+    justify-content: center;
+    height: 70px;
+    width: 70px;
+}
