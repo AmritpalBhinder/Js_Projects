@@ -42,7 +42,6 @@ This project was created as a fun way to practice DOM manipulation and UI feedba
 
 ---
 
-Let me know if you'd like a fancier version with badges or a live demo link section too!
 
 ![Screen Recording 2025-04-16 124231](https://github.com/user-attachments/assets/aa6643d8-de61-4004-92f0-ed252b7f2be3)
 
