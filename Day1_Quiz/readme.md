@@ -70,7 +70,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you want to include the **actual questions/answers**, or want a section for **customization/instructions**!
 
 
 
