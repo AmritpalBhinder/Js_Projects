@@ -1,1 +1,1 @@
-<h1>All JavaScript projects are available here</h1>
+<h1>All JavaScript projects are available here as a logical</h1>
